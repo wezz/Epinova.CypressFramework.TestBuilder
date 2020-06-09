@@ -1,0 +1,16 @@
+{
+	"name": "epinova.cypressframework.testbuilder",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.mjs",
+	"type": "module",
+	"scripts": {
+		"start": "node --experimental-modules index.mjs"
+	},
+	"author": "Wezz Balk (wezz@wezz.se)",
+	"private": true,
+	"license": "UNLICENSED",
+	"dependencies": {
+		"inquirer": "^7.1.0"
+	}
+}
